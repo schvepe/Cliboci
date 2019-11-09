@@ -1,5 +1,5 @@
 module Cliboci [system] {
-  header "/usr/local/include/oci.h"
+  header "/usr/local/include/oci/oci.h"
   link "Cliboci"
   export *
 }
