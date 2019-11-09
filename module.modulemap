@@ -1,5 +1,5 @@
 module Cliboci [system] {
   header "/usr/local/include/oci/oci.h"
-  link "libclntsh"
+  link "clntsh"
   export *
 }
